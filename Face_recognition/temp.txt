@@ -1,0 +1,19 @@
+    # parshvi_face_encodings = face_recognition.face_encodings(
+    # face_recognition.load_image_file("..\Images/parshvi.jpg"))[0]
+    # rushabh_face_encodings = face_recognition.face_encodings(
+    # face_recognition.load_image_file("..\Images/rushabh.jpg"))[0]
+    # mahira_face_encodings = face_recognition.face_encodings(
+    # face_recognition.load_image_file("..\Images/Mahira.jpg"))[0]
+
+    # known_face_encodings = [ 
+    #     parshvi_face_encodings,
+    #     rushabh_face_encodings,
+    #     mahira_face_encodings
+    #     ]
+
+    # known_face_names = [
+    #         "Parshvi",
+    #         "Rushabh",
+    #         "Mahira"
+    #     ]
+    # get the path/directory
